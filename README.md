@@ -24,11 +24,6 @@ This repository contains **curated excerpts** from AI conversations—not full t
 
 Routine exchanges and procedural content are filtered out, leaving only material worth preserving and revisiting.
 
-## Repository Structure
-
-processed/ ├── mathematics/         # Mathematical reasoning and proofs ├── formal-verification/ # Isabelle/HOL and theorem proving ├── ai-methodology/      # Meta-insights about AI collaboration └── programming/         # Code development and optimization
-
-
 ## Workflow
 
 Each document in this repository follows this process:
