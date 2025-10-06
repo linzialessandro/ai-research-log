@@ -24,11 +24,6 @@ This repository contains **curated excerpts** from AI conversations—not full t
 
 Routine exchanges and procedural content are filtered out, leaving only material worth preserving and revisiting.
 
-## Repository Structure
-
-processed/ ├── mathematics/         # Mathematical reasoning and proofs ├── formal-verification/ # Isabelle/HOL and theorem proving ├── ai-methodology/      # Meta-insights about AI collaboration └── programming/         # Code development and optimization
-
-
 ## Workflow
 
 Each document in this repository follows this process:
@@ -48,7 +43,7 @@ This project embodies principles of transparent, ethical AI usage in academic co
 
 ## Context
 
-This repository is part of ongoing research in pure mathematics (effect algebras, valuation theory, hyperfields) while simultaneously developing expertise in AI-assisted formal verification and programming. It serves both as a personal knowledge management system and a public demonstration of effective AI collaboration in academic research.
+This repository is part of ongoing research in pure mathematics while simultaneously developing expertise in AI-assisted formal verification and programming. It serves both as a personal knowledge management system and a public demonstration of effective AI collaboration in academic research.
 
 ---
 
