@@ -43,7 +43,7 @@ This project embodies principles of transparent, ethical AI usage in academic co
 
 ## Context
 
-This repository is part of ongoing research in pure mathematics (effect algebras, valuation theory, hyperfields) while simultaneously developing expertise in AI-assisted formal verification and programming. It serves both as a personal knowledge management system and a public demonstration of effective AI collaboration in academic research.
+This repository is part of ongoing research in pure mathematics while simultaneously developing expertise in AI-assisted formal verification and programming. It serves both as a personal knowledge management system and a public demonstration of effective AI collaboration in academic research.
 
 ---
 
